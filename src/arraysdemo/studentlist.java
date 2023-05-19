@@ -10,6 +10,7 @@ package arraysdemo;
  */
 public class studentlist {
     //comment addes at 1:21 PM
+    //Friday
     public static void main(String[] args){
         Student s1 = new Student("s1","Hevin");
         Student[] studentList = new Student[3];
