@@ -8,6 +8,15 @@ package student;
 public class Student {
    private String sId;
    private String sName;
+   private string address:
+
+    public string getAddress() {
+        return address;
+    }
+
+    public void setAddress(string address) {
+        this.address = address;
+    }
 
     public Student(String sId, String sName) {
         this.sId = sId;
