@@ -9,6 +9,7 @@ package arraysdemo;
  * @author Hevin
  */
 public class studentlist {
+    //comment addes at 1:21 PM
     public static void main(String[] args){
         Student s1 = new Student("s1","Hevin");
         Student[] studentList = new Student[3];
